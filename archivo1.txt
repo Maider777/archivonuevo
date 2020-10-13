@@ -1,1 +1,8 @@
 hola que tal
+
+Para hacer un encabezad , utikizar almohadilla 
+ejemplo:
+
+Git status :
+Dir :
+Exit :
